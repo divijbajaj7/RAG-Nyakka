@@ -1,0 +1,6 @@
+{
+  "name": "Nykaa Beauty & Skincare",
+  "description": "Curated beauty, skincare, and personal care destination featuring best-selling collections, verified customer ratings, and seamless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
